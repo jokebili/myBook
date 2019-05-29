@@ -2,7 +2,7 @@
 > [myBook](https://www.gitbook.com/) 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
 
 An example snapshot:
-![Image](./short.png)
+![Image](./myBook/short.png)
 
 # Environment
 macOS Mojave 10.14.4 or Deepin15.10.1 or Windows
